@@ -12,6 +12,7 @@
         <module>jdk</module>
         <module>finchleyCloud</module>
         <module>eureka</module>
+        <module>shares</module>
     </modules>
 
     <properties>
